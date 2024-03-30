@@ -1,0 +1,11 @@
+*{
+  font-family: poppins;
+}
+
+::-webkit-scrollbar{
+  display: none;
+}
+::-webkit-scrollbar-thumb{
+  background-color: rgba(0, 0, 0, 0.764);
+  border-radius: 10px;
+}
